@@ -19,15 +19,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/CilZett">
-    <img src="https://count.getloli.com/get/@CilZett?theme=hacker" alt="Hacker Visitor Counter" />
-  </a>
-</p>
-
-
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=root%40peter-terminal%3A~%23+whoami;System+Compromised...;Informatics+Engineering+Student;Welcome+to+my+domain" alt="Typing SVG" />
 </p>
 
