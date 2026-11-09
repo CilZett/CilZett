@@ -16,7 +16,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CilZett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%2F%2F%20SECURE-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=111111" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%201-FF0055?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=111111" alt="Clearance" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 
