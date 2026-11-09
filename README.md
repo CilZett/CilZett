@@ -4,16 +4,16 @@
 
 
 
-<div align="center">
-  <div style="font-family: monospace; font-weight: bold; line-height: 1.2; color: #ffffff;">
+<p align="center">
+  <code><pre align="center" style="background: transparent; color: #00ff66; border: none; margin: 0; padding: 0;">
 ██████╗ ███████╗████████╗███████╗██████╗ 
 ██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
 ██████╔╝█████╗     ██║   █████╗  ██████╔╝
 ██╔═══╝ ██╔══╝     ██║   ██╔══╝  ██╔══██║
 ██║     ███████╗   ██║   ███████╗██║  ██║
 ╚═╝     ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-  </div>
-</div>
+  </pre></code>
+</p>
 
 
 <picture data-importer="pacman">
