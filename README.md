@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=root%40peter-terminal%3A~%23+whoami;System+Compromised...;Informatics+Engineering+Student;Welcome+to+my+domain" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE%20%2F%2F%20SECURE-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=111111" alt="Status" />
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%201-FF0055?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=111111" alt="Clearance" />
 </p>
@@ -29,9 +33,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=root%40peter-terminal%3A~%23+whoami;System+Compromised...;Informatics+Engineering+Student;Welcome+to+my+domain" alt="Typing SVG" />
-</p>
+
 
 
 
