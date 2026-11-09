@@ -15,7 +15,9 @@
   </pre>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CilZett&theme=react-dark&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 
 <p align="center">
