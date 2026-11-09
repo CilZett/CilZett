@@ -5,15 +5,16 @@
 
 
 <p align="center">
-  <code><pre align="center" style="background: transparent; color: #00ff66; border: none; margin: 0; padding: 0;">
+  <pre align="center" style="background: transparent; border: none; padding: 0;">
 ██████╗ ███████╗████████╗███████╗██████╗ 
 ██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
 ██████╔╝█████╗     ██║   █████╗  ██████╔╝
-██╔═══╝ ██╔══╝     ██║   ██╔══╝  ██╔══██║
+██╔═══╝ ██╔══╝     ██║   ██╔══╝  ██╔══██╗
 ██║     ███████╗   ██║   ███████╗██║  ██║
 ╚═╝     ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-  </pre></code>
+  </pre>
 </p>
+
 
 
 <picture data-importer="pacman">
