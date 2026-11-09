@@ -16,6 +16,12 @@
 </p>
 
 <p align="center">
+  <marquee scrollamount="6" width="90%">
+    <code><pre style="display:inline; color: #00ff66; font-size: 22px; font-weight: bold;">[+] ROOT ACCESS GRANTED // USER: PETER // SYSTEM STATUS: ONLINE [+]</pre></code>
+  </marquee>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=root%40peter-terminal%3A~%23+whoami;System+Compromised...;Informatics+Engineering+Student;Welcome+to+my+domain" alt="Typing SVG" />
 </p>
 
