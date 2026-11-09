@@ -34,7 +34,7 @@ jobs:
         run: pip install pillow requests numpy
       - name: Generate animated ASCII profile card
         env:
-          GITHUB_LOGIN: pangeran-droid
+          GITHUB_LOGIN: CilZett
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUT_PATH: assets/profile.svg
         run: python scripts/generate_card.py
