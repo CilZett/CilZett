@@ -16,7 +16,6 @@
 ╚═╝     ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
   </pre>
 </p>
-
 <p align="center">
   <span style="color: #FFD700; font-size: 24px;">★★★★★★</span><br><br>
   <img src="https://img.shields.io/badge/RANK--GOD-000000?style=for-the-badge&logoColor=FFD700&color=000000" alt="RANK GOD">
